@@ -19,3 +19,9 @@ class AbstraksiKlas
         cout <<" Y = " << y << endl;
     }
 };
+
+int main()
+{
+    AbstraksiKlas ak;
+    
+}
