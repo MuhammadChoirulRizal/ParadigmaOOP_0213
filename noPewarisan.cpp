@@ -10,3 +10,9 @@ virtual void perkenalan()
 
 }
 };
+
+class derivedClass : public baseClass
+{
+public:
+
+};
