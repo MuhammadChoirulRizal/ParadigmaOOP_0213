@@ -21,3 +21,8 @@ void perkenalan()
 }
 };
 
+int main()
+{
+    derivedClass a;
+    
+}
